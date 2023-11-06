@@ -1,5 +1,5 @@
 
-Check out the application here: https://resilient-centaur-8e3fef.netlify.app/ </br>
+Check out the running application here: https://resilient-centaur-8e3fef.netlify.app/ </br>
 Check out the frontend source code here: https://github.com/gokulsrepo/auth-frontend
 
 # User Authentication App (MERN Stack)
